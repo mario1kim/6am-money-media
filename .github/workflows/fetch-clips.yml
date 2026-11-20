@@ -21,10 +21,16 @@ jobs:
             mkdir -p "clips/$day"
             while read -r name url; do
               [ -z "$name" ] && continue
-              case "$url" in https://videos.pexels.com/*) ;; *) echo "skip $url"; continue;; esac
+              case "$url" in
+                https://videos.pexels.com/*) ;;
+                https://www.pexels.com/download/video/*) echo "$url" | grep -Eq '^https://www\.pexels\.com/download/video/[0-9]+/?$' || { echo "skip $url"; continue; } ;;
+                *) echo "skip $url"; continue;;
+              esac
               case "$name" in *[!A-Za-z0-9._-]*) echo "bad name $name"; continue;; esac
               [ -f "clips/$day/$name" ] && continue
-              curl -fsSL --max-filesize 60000000 -o "clips/$day/$name" "$url"
+              curl -fsSL -A "Mozilla/5.0" --max-filesize 120000000 -o "clips/$day/$name.src" "$url" || { echo "FAILED $name $url"; continue; }
+              # shrink to 720x1280-ish so the repo stays small
+              ffmpeg -loglevel error -y -i "clips/$day/$name.src" -t 20 -an -vf "scale=720:1280:force_original_aspect_ratio=increase,crop=720:1280" -c:v libx264 -crf 23 -preset veryfast "clips/$day/$name" && rm "clips/$day/$name.src"
             done < "$req"
           done
       - name: Commit
