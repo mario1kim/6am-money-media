@@ -5,3 +5,14 @@ Clips downloaded from Pexels (https://www.pexels.com/license/). Source pages:
 - ai1: https://www.pexels.com/video/nighttime-software-development-workspace-30284959/
 - ai2: https://www.pexels.com/video/hands-typing-on-laptop-keyboard-12893579/
 - ai3: https://www.pexels.com/video/codes-on-computer-screen-5377697/
+
+11/21 (Pexels license):
+- re1: https://www.pexels.com/video/aerial-view-of-downtown-seoul-cityscape-29980567/
+- re2: https://www.pexels.com/video/apartment-buildings-in-town-14016414/
+- re3: https://www.pexels.com/video/drone-footage-of-apartment-buildings-13761469/
+- ai1: https://www.pexels.com/video/focused-man-working-late-on-a-laptop-35331901/
+- ai2: https://www.pexels.com/video/a-person-busy-working-on-his-laptop-5495890/
+- ai3: https://www.pexels.com/video/a-man-sitting-in-front-of-a-computer-screen-19532053/
+- fin1: https://www.pexels.com/video/stock-market-trading-on-curved-monitor-34975243/
+- fin2: https://www.pexels.com/video/analyzing-stock-market-trends-on-interactive-screen-30289540/
+- fin3: https://www.pexels.com/video/dynamic-finance-chart-display-in-dark-room-38736274/

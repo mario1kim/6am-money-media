@@ -39,4 +39,4 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add clips
           git diff --cached --quiet || git commit -m "Add requested clips"
-          git push origin HEAD:media
+          git pull --rebase origin media && git push origin HEAD:media
