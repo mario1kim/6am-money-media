@@ -22,3 +22,4 @@ Clips downloaded from Pexels (https://www.pexels.com/license/). Source pages:
 - fin2: https://www.pexels.com/video/bitcoin-on-a-screen-display-7578639/
 - fin3: https://www.pexels.com/video/bitcoin-gold-coins-with-financial-chart-background-5665495/
 - fin4: https://www.pexels.com/video/financial-market-7579577/
+- 2026-11-22 금융: Pexels videos 8370541, 7578639, 5665495, 7579577 (Pexels License)
