@@ -24,3 +24,4 @@ Clips downloaded from Pexels (https://www.pexels.com/license/). Source pages:
 - fin4: https://www.pexels.com/video/financial-market-7579577/
 - 2026-11-22 금융: Pexels videos 8370541, 7578639, 5665495, 7579577 (Pexels License)
 - 2026-11-22 AI: Pexels videos 5281595, 3129595, 5303840 (Pexels License)
+- 2026-11-23 금융: Pexels videos 38374731, 35054125, 4319342, 13801266 (Pexels License)
