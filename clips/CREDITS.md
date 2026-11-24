@@ -28,3 +28,4 @@ Clips downloaded from Pexels (https://www.pexels.com/license/). Source pages:
 - 2026-11-24 금융: Pexels videos 32017747, 1797251, 8369974, 3752545 (Pexels License)
 - 2026-11-24 부동산: Pexels videos 4783895, 15847247, 12306839 (Pexels License)
 - 2026-11-24 AI: Pexels videos 8472469, 6931250, 6517429, 4064861 (Pexels License)
+- 2026-11-25 금융: Pexels videos 34433115, 8480244, 30445101, 8370544, 7735814 (Pexels License)
