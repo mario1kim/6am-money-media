@@ -31,3 +31,4 @@ Clips downloaded from Pexels (https://www.pexels.com/license/). Source pages:
 - 2026-11-25 금융: Pexels videos 34433115, 8480244, 30445101, 8370544, 7735814 (Pexels License)
 - 2026-11-25 부동산: Pexels videos 5801020, 4777928, 7646764, 7646747 (Pexels License)
 - 2026-11-25 15시 금융: Pexels videos 6780089, 6962695, 7821854, 6700253 (Pexels License)
+- 2026-11-25 AI: Pexels videos 6931246, 20563164, 6586059, 4873104 (Pexels License); 18069701 by Wes Cockx, Visualising AI (Google DeepMind) via Pexels
