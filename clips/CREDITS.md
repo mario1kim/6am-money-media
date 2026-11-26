@@ -36,3 +36,4 @@ Clips downloaded from Pexels (https://www.pexels.com/license/). Source pages:
 - 2026-11-25 23시 미국장: Pexels videos 5727833, 5828502, 35675913, 36206025 (Pexels License)
 - 2026-11-26 금융: Pexels videos 4393479, 12245077, 7579943, 5635831, 5848449 (Pexels License)
 - 2026-11-26 08시 기업: Pexels videos 18743334, 3945008, 7947488, 7578623, 6590463 (Pexels License)
+- 2026-11-26 10시 AI: Pexels videos 8774518, 4496268, 7882634, 5168120, 7872719 (Pexels License)
